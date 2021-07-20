@@ -1,0 +1,53 @@
+body{
+    background-image: url(images/bg\ choco.png);
+    background-position: center;
+    background-size: cover;
+}
+
+header{ 
+    background-color: rgba(216, 157, 9, 0.556);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+main{
+    background-color: none;
+    width: 1024px;
+    height: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+footer{
+    background-color:rgba(216, 157, 9, 0.522);
+    width: 1024px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer h5{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+}
+
+
